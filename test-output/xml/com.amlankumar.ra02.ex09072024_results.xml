@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/amlan/IdeaProjects/ATB6xRestAssured"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.532">
+    <properties></properties>
+
+
+
+            <testcase
+                name="GetPingRequest1"
+                time="1.184"
+                classname="com.amlankumar.ra02.ex09072024">
+            </testcase>
+            <testcase
+                name="GetPingRequest3"
+                time="1.162"
+                classname="com.amlankumar.ra02.ex09072024">
+            </testcase>
+            <testcase
+                name="GetPingRequest2"
+                time="1.186"
+                classname="com.amlankumar.ra02.ex09072024">
+            </testcase>
+</testsuite>

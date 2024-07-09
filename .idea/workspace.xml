@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4911d62-c3fc-49e0-9509-d4760603dd33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amlankumar/ra01/ex05072024.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/amlankumar/ra01/ex05072024.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2ipNGOJ74HhWSepXBTyfDXUZF5p" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,13 +35,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ex05072024.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.C:/Users/amlan/IdeaProjects/ATB6xRestAssured/testng.xml.executor": "Run",
+    "TestNG.ex05072024.GetPingRequest2.executor": "Run",
+    "TestNG.ex05072024.executor": "Run",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C:/Users/amlan/IdeaProjects/ATB6xRestAssured/testng.xml">
     <configuration name="ex05072024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.amlankumar.ra01.ex05072024" />
       <module name="ATB6xRestAssured" />
@@ -58,8 +60,56 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/amlan/IdeaProjects/ATB6xRestAssured/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6xRestAssured" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex05072024" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6xRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amlankumar.ra01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amlankumar.ra01" />
+      <option name="MAIN_CLASS_NAME" value="com.amlankumar.ra01.ex05072024" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex05072024.GetPingRequest2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6xRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amlankumar.ra01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amlankumar.ra01" />
+      <option name="MAIN_CLASS_NAME" value="com.amlankumar.ra01.ex05072024" />
+      <option name="METHOD_NAME" value="GetPingRequest2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/amlan/IdeaProjects/ATB6xRestAssured/testng.xml" />
+        <item itemvalue="TestNG.ex05072024" />
+        <item itemvalue="TestNG.ex05072024.GetPingRequest2" />
         <item itemvalue="Application.ex05072024" />
       </list>
     </recent_temporary>
