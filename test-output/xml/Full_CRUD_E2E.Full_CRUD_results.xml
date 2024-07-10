@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssured"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.825">
+    <properties></properties>
+
+
+
+            <testcase
+                name="DeleteBookingID"
+                time="1.144"
+                classname="Full_CRUD_E2E.Full_CRUD">
+            </testcase>
+            <testcase
+                name="UpdateBookingID"
+                time="1.265"
+                classname="Full_CRUD_E2E.Full_CRUD">
+            </testcase>
+            <testcase
+                name="GetBookingInfo"
+                time="1.416"
+                classname="Full_CRUD_E2E.Full_CRUD">
+            </testcase>
+</testsuite>

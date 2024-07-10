@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Basic CRUD Operations">
+    git <test verbose="2" preserve-order="true" name="ATB6xRestAssuredCRUD"></test>
+    <packages>
+        <package name="CRUDOperations.*"/>
+    </packages>
+</suite>

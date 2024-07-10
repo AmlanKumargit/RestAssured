@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssuredCRUD"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.183">
+    <properties></properties>
+
+
+
+            <testcase
+                name="GetPingRequest"
+                time="1.183"
+                classname="CRUDOperations.GET.NonBDDStyle.ex10072024a">
+            </testcase>
+</testsuite>
