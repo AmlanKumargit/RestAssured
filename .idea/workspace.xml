@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4911d62-c3fc-49e0-9509-d4760603dd33" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
@@ -39,6 +40,7 @@
     "Application.ex05072024.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.BDDStyle.POSTReq.executor": "Run",
     "TestNG.C:/Users/amlan/IdeaProjects/ATB6xRestAssured/src/test/java/CRUDOperations/testng_CRUD.xml.executor": "Run",
     "TestNG.C:/Users/amlan/IdeaProjects/ATB6xRestAssured/testng.xml.executor": "Run",
@@ -54,11 +56,19 @@
     "TestNG.NonBDDStyle.POSTReqNeg.executor": "Run",
     "TestNG.NonBDDStyle.POSTReqPos.executor": "Run",
     "TestNG.NonBDDStyle.executor": "Run",
+    "TestNG.PayLoadAsMap.executor": "Run",
     "TestNG.ex05072024.GetPingRequest2.executor": "Run",
     "TestNG.ex05072024.executor": "Run",
     "TestNG.ex10072024.GetPingReq.executor": "Run",
     "TestNG.ex10072024a.GetPingRequest.executor": "Run",
+    "TestNG.ex12072024 (1).executor": "Run",
+    "TestNG.ex12072024.POSTReqPos (1).executor": "Run",
+    "TestNG.ex12072024.POSTReqPos (2).executor": "Run",
+    "TestNG.ex12072024.POSTReqPos.executor": "Run",
+    "TestNG.ex12072024.executor": "Run",
+    "TestNG.ex120720241.executor": "Run",
     "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "openjdk-22",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/amlan/IdeaProjects/ATB6xRestAssured/src/test/java/CRUDOperations",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -68,28 +78,25 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\amlan\IdeaProjects\ATB6xRestAssured\src\test\java\CRUDOperations" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amlan\IdeaProjects\ATB6xRestAssured\src\test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jacksonapi.Deserialisation" />
+      <recent name="gson.serialization" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.Full_CRUD">
-    <configuration name="C:/Users/amlan/IdeaProjects/ATB6xRestAssured/src/test/java/CRUDOperations/testng_CRUD.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB6xRestAssured" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/CRUDOperations/testng_CRUD.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Full_CRUD" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ex12072024 (1)">
+    <configuration name="ex12072024 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6xRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Full_CRUD_E2E.*" />
+          <option name="PATTERN" value="jsonschemavalidation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Full_CRUD_E2E" />
-      <option name="MAIN_CLASS_NAME" value="Full_CRUD_E2E.Full_CRUD" />
+      <option name="PACKAGE_NAME" value="jsonschemavalidation" />
+      <option name="MAIN_CLASS_NAME" value="jsonschemavalidation.ex12072024" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -97,17 +104,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Full_CRUD.GetBookingInfo" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ex12072024" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6xRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Full_CRUD_E2E.*" />
+          <option name="PATTERN" value="jacksonapi.serialisation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Full_CRUD_E2E" />
-      <option name="MAIN_CLASS_NAME" value="Full_CRUD_E2E.Full_CRUD" />
-      <option name="METHOD_NAME" value="GetBookingInfo" />
+      <option name="PACKAGE_NAME" value="jacksonapi.Deserialisation" />
+      <option name="MAIN_CLASS_NAME" value="jacksonapi.serialisation.ex12072024" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex120720241" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6xRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gson.serialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gson.serialization" />
+      <option name="MAIN_CLASS_NAME" value="gson.serialization.ex120720241" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex12072024.POSTReqPos (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6xRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Deserialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Deserialization" />
+      <option name="MAIN_CLASS_NAME" value="Deserialization.ex12072024" />
+      <option name="METHOD_NAME" value="POSTReqPos" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -115,33 +156,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NONBDDStyle" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ex12072024.POSTReqPos (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6xRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CRUDOperations.PATCH.*" />
+          <option name="PATTERN" value="jacksonapi.Deserialisation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CRUDOperations.PATCH" />
-      <option name="MAIN_CLASS_NAME" value="CRUDOperations.PATCH.NONBDDStyle" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="jacksonapi.Deserialisation" />
+      <option name="MAIN_CLASS_NAME" value="jacksonapi.Deserialisation.ex12072024" />
+      <option name="METHOD_NAME" value="POSTReqPos" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonBDDStyle.POSTReqPos" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ex12072024.POSTReqPos" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6xRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CRUDOperations.POST.*" />
+          <option name="PATTERN" value="gson.serialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CRUDOperations.POST" />
-      <option name="MAIN_CLASS_NAME" value="CRUDOperations.POST.NonBDDStyle" />
+      <option name="PACKAGE_NAME" value="gson.serialization" />
+      <option name="MAIN_CLASS_NAME" value="gson.serialization.ex12072024" />
+      <option name="METHOD_NAME" value="POSTReqPos" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex12072024.POSTReqPos" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6xRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jacksonapi.serialisation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jacksonapi.Deserialisation" />
+      <option name="MAIN_CLASS_NAME" value="jacksonapi.serialisation.ex12072024" />
       <option name="METHOD_NAME" value="POSTReqPos" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -152,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Full_CRUD" />
-        <item itemvalue="TestNG.Full_CRUD.GetBookingInfo" />
-        <item itemvalue="TestNG.NonBDDStyle.POSTReqPos" />
-        <item itemvalue="TestNG.C:/Users/amlan/IdeaProjects/ATB6xRestAssured/src/test/java/CRUDOperations/testng_CRUD.xml" />
-        <item itemvalue="TestNG.NONBDDStyle" />
+        <item itemvalue="TestNG.ex12072024 (1)" />
+        <item itemvalue="TestNG.ex12072024.POSTReqPos (2)" />
+        <item itemvalue="TestNG.ex12072024.POSTReqPos (2)" />
+        <item itemvalue="TestNG.ex12072024 (1)" />
+        <item itemvalue="TestNG.ex12072024.POSTReqPos (1)" />
       </list>
     </recent_temporary>
   </component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssured"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.427">
+    <properties></properties>
+
+
+
+            <testcase
+                name="POSTReqPos"
+                time="0.427"
+                classname="gson.serialization.ex120720241">
+            </testcase>
+</testsuite>

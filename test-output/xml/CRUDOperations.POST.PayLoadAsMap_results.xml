@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssured"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.179">
+    <properties></properties>
+
+
+
+            <testcase
+                name="POSTReqPos"
+                time="4.179"
+                classname="CRUDOperations.POST.PayLoadAsMap">
+            </testcase>
+</testsuite>

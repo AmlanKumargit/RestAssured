@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssured"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.575">
+    <properties></properties>
+
+
+
+            <testcase
+                name="JSONvalidation"
+                time="4.575"
+                classname="jsonschemavalidation.ex12072024">
+            </testcase>
+</testsuite>
