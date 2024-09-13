@@ -1,20 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="All Test Suite">
-    git <test verbose="2" preserve-order="true" name="ATB6xRestAssured">
-    <classes><class name="com.amlankumar.ra01.ex05072024">
-        <methods>
-            <include name="GetPingRequest"/>
-            <include name="GetPingRequest2"/>
-        </methods>
-    </class>
-        <class name="com.amlankumar.ra02.ex09072024">
-            <methods>
-                <include name="GetPingRequest1"/>
-                <include name="GetPingRequest2"/>
-                <include name="GetPingRequest3"/>
-            </methods>
-        </class>
-    </classes>
-</test>
-</suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/amlan/IdeaProjects/ATB6xRestAssured"><classes><class name="Full_CRUD_E2E.Full_CRUD"><methods><include name="UpdateBookingID"/><include name="GetBookingInfo"/><include name="DeleteBookingID"/></methods></class></classes></test></suite>
